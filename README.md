@@ -1,0 +1,1 @@
+# ion-android-swipe-gesture-white-screen
